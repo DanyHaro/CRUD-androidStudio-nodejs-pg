@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Crud-nodejs-postgres</string>
+    <string name="menu">Nuevo registro</string>
+    <string name="txt_nombre">Nombres</string>
+    <string name="txt_apellido">Apellidos</string>
+    <string name="txt_email">Correo Electronico</string>
+    <string name="txt_profesion">Profesión</string>
+    <string name="btn_guardar">Guardar registro</string>
+    <string name="btn_modificar">Modificar registro</string>
+
+
+</resources>
